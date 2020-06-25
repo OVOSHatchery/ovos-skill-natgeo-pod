@@ -1,4 +1,4 @@
-# <img src='./res/icon.png' width='50' height='50' style='vertical-align:bottom'/> National geographic Picture of the Day
+# <img src='./res/icon/icon.png' width='50' height='50' style='vertical-align:bottom'/> National geographic Picture of the Day
 
 ## About
 
