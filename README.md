@@ -2,7 +2,7 @@
 
 ## About
 
-[National Geographic Picture of the Day](https://www.nationalgeographic.com/photography/photo-of-the-day/)
+[National Geographic Picture of the Day](https://www.natgeotv.com/ca/photo-of-the-day)
   
 Can be used as idle screen
 
